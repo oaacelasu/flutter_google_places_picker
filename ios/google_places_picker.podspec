@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'google_places_picker'
-  s.version          = '0.0.3'
+  s.version          = '3.7.0'
   s.summary          = 'Flutter plugin for Google Places and Autocomplete'
   s.description      = <<-DESC
   Flutter plugin for Google Places and Autocomplete
